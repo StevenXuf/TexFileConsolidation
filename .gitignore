@@ -1,0 +1,9 @@
+# Local paper sources and assets are not part of this tool repository.
+/CHR2027/
+/CHR 2027/
+
+# Generated bundles and local metadata.
+bundle-*
+.DS_Store
+__pycache__/
+*.pyc
